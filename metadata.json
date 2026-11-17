@@ -1,0 +1,6 @@
+{
+  "name": "Bocado Fiel — Alimentos Naturales para Mascotas",
+  "description": "Tienda de alimentos naturales, croquetas balanceadas, recetas húmedas y snacks saludables para perros y gatos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
